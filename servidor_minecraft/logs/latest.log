@@ -25,3 +25,121 @@
 [21:08:46] [Server thread/INFO]: Made Jinxed_73 a server operator
 [21:09:46] [Server thread/INFO]: Jinxed_73 lost connection: Disconnected
 [21:09:46] [Server thread/INFO]: Jinxed_73 left the game
+[21:28:02] [Server thread/INFO]: Jinxed_73[/100.71.236.32:61977] logged in with entity id 3258 at (-1740.81110732129, 63.0, 1535.3915823218942)
+[21:28:02] [Server thread/INFO]: Jinxed_73 joined the game
+[21:28:31] [Server thread/INFO]: Jinxed_73 lost connection: Disconnected
+[21:28:31] [Server thread/INFO]: Jinxed_73 left the game
+[21:29:03] [Server thread/INFO]: Jinxed_73[/100.71.236.32:62008] logged in with entity id 3479 at (-1726.9945491713108, 70.0, 1503.8554302855073)
+[21:29:03] [Server thread/INFO]: Jinxed_73 joined the game
+[21:29:24] [Server thread/INFO]: FirulaisMarigano was slain by Jinxed_73
+[21:29:48] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:30:15] [Server thread/INFO]: FirulaisMarigano drowned while trying to escape Jinxed_73
+[21:30:21] [Server thread/INFO]: [Jinxed_73: Set own game mode to Spectator Mode]
+[21:30:39] [Server thread/INFO]: [Jinxed_73: Set own game mode to Survival Mode]
+[21:30:53] [Server thread/INFO]: [Jinxed_73: Teleported FirulaisMarigano to Jinxed_73]
+[21:31:09] [Server thread/INFO]: FirulaisMarigano fell from a high place
+[21:31:14] [Server thread/INFO]: [Jinxed_73: Teleported FirulaisMarigano to Jinxed_73]
+[21:31:19] [Server thread/INFO]: [Jinxed_73: Teleported FirulaisMarigano to Jinxed_73]
+[21:31:21] [Server thread/INFO]: FirulaisMarigano fell from a high place
+[21:31:25] [Server thread/INFO]: [Jinxed_73: Teleported FirulaisMarigano to Jinxed_73]
+[21:31:46] [Server thread/INFO]: FirulaisMarigano was slain by Jinxed_73
+[21:32:19] [Server thread/INFO]: [Jinxed_73: Set own game mode to Spectator Mode]
+[21:32:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1715, y=74, z=1506} jd{x=-1756, y=63, z=1502}
+[21:32:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1715, y=74, z=1506} jd{x=-1756, y=62, z=1501}
+[21:32:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1715, y=74, z=1506} jd{x=-1755, y=62, z=1501}
+[21:32:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1715, y=74, z=1506} jd{x=-1756, y=62, z=1501}
+[21:32:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1715, y=74, z=1506} jd{x=-1756, y=63, z=1502}
+[21:32:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1715, y=74, z=1506} jd{x=-1757, y=62, z=1502}
+[21:32:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1715, y=74, z=1506} jd{x=-1758, y=62, z=1503}
+[21:32:43] [Server thread/INFO]: [Jinxed_73: Teleported FirulaisMarigano to Jinxed_73]
+[21:32:49] [Server thread/INFO]: FirulaisMarigano has made the advancement [Sneak 100]
+[21:33:00] [Server thread/INFO]: [Jinxed_73: Summoned new Warden]
+[21:33:24] [Server thread/INFO]: [Jinxed_73: Summoned new Slime]
+[21:33:33] [Server thread/INFO]: FirulaisMarigano was slain by Slime
+[21:33:36] [Server thread/INFO]: [Jinxed_73: Teleported FirulaisMarigano to Jinxed_73]
+[21:33:46] [Server thread/INFO]: [Jinxed_73: Summoned new Skeleton]
+[21:33:48] [Server thread/INFO]: [Jinxed_73: Summoned new Skeleton]
+[21:33:50] [Server thread/INFO]: [Jinxed_73: Summoned new Skeleton]
+[21:33:52] [Server thread/INFO]: [Jinxed_73: Summoned new Skeleton]
+[21:34:06] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:34:20] [Server thread/INFO]: [Jinxed_73: Summoned new Warden]
+[21:34:25] [Server thread/INFO]: FirulaisMarigano was obliterated by a sonically-charged shriek
+[21:34:25] [Server thread/INFO]: [Jinxed_73: Summoned new Warden]
+[21:34:31] [Server thread/INFO]: [Jinxed_73: Teleported FirulaisMarigano to Jinxed_73]
+[21:34:36] [Server thread/INFO]: FirulaisMarigano was slain by Warden
+[21:34:41] [Server thread/INFO]: [Jinxed_73: Summoned new Warden]
+[21:34:43] [Server thread/INFO]: [Jinxed_73: Summoned new Warden]
+[21:34:45] [Server thread/INFO]: [Jinxed_73: Summoned new Warden]
+[21:34:47] [Server thread/INFO]: [Jinxed_73: Summoned new Warden]
+[21:34:48] [Server thread/INFO]: [Jinxed_73: Summoned new Warden]
+[21:34:51] [Server thread/INFO]: [Jinxed_73: Teleported FirulaisMarigano to Jinxed_73]
+[21:35:10] [Server thread/INFO]: [Jinxed_73: Teleported FirulaisMarigano to Jinxed_73]
+[21:35:11] [Server thread/INFO]: FirulaisMarigano was slain by Warden
+[21:35:30] [Server thread/INFO]: [Jinxed_73: Applied effect Resistance to FirulaisMarigano]
+[21:35:32] [Server thread/INFO]: [Jinxed_73: Teleported FirulaisMarigano to Jinxed_73]
+[21:36:20] [Server thread/INFO]: [Jinxed_73: Applied effect Levitation to FirulaisMarigano]
+[21:36:30] [Server thread/INFO]: FirulaisMarigano has completed the challenge [Great View From Up Here]
+[21:37:15] [Server thread/INFO]: [Jinxed_73: Removed effect Levitation from FirulaisMarigano]
+[21:37:27] [Server thread/INFO]: [Jinxed_73: Applied effect Levitation to FirulaisMarigano]
+[21:37:35] [Server thread/INFO]: [Jinxed_73: Teleported FirulaisMarigano to Jinxed_73]
+[21:37:54] [Server thread/INFO]: [Jinxed_73: Applied effect Levitation to FirulaisMarigano]
+[21:37:56] [Server thread/INFO]: [Jinxed_73: Teleported FirulaisMarigano to Jinxed_73]
+[21:38:04] [Server thread/INFO]: [Jinxed_73: Set own game mode to Creative Mode]
+[21:38:13] [Server thread/INFO]: [Jinxed_73: Set own game mode to Spectator Mode]
+[21:38:20] [Server thread/INFO]: [Jinxed_73: Teleported FirulaisMarigano to Jinxed_73]
+[21:38:32] [Server thread/INFO]: [Jinxed_73: Applied effect Levitation to FirulaisMarigano]
+[21:38:42] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:38:53] [Server thread/INFO]: [Jinxed_73: Set own game mode to Creative Mode]
+[21:38:57] [Server thread/WARN]: FirulaisMarigano moved too quickly! 0.0,23.22963172274285,0.0
+[21:39:18] [Server thread/WARN]: FirulaisMarigano moved too quickly! 0.0,23.229631722741033,0.0
+[21:39:19] [Server thread/INFO]: [Jinxed_73: Removed every effect from FirulaisMarigano]
+[21:39:30] [Server thread/INFO]: [Jinxed_73: Applied effect Resistance to FirulaisMarigano]
+[21:39:42] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:39:45] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:39:47] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:39:49] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:39:50] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:39:52] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:39:53] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:39:55] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:39:57] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:40:04] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:40:05] [Server thread/WARN]: Jinxed_73 moved too quickly! 0.0,-11.523684986415901,0.0
+[21:40:11] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:40:14] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:40:21] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:40:24] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:40:30] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:40:32] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:40:36] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:40:37] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:40:42] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:40:49] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:40:52] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:40:54] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:40:55] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:40:59] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:01] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:02] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:04] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:06] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:07] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:09] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:11] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:13] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:14] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:16] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:18] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:21] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:23] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:25] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:26] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:27] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:29] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:30] [Server thread/INFO]: [Jinxed_73: Teleported Jinxed_73 to FirulaisMarigano]
+[21:41:31] [Server thread/INFO]: FirulaisMarigano fell from a high place
+[21:41:42] [Server thread/INFO]: [Jinxed_73: Teleported FirulaisMarigano to Jinxed_73]
+[21:41:44] [Server thread/INFO]: FirulaisMarigano fell from a high place
+[21:41:47] [Server thread/INFO]: [Jinxed_73: Teleported FirulaisMarigano to Jinxed_73]
+[21:42:20] [Server thread/INFO]: FirulaisMarigano was blown up by Creeper
+[21:44:47] [Server thread/INFO]: [Jinxed_73: Set own game mode to Spectator Mode]
