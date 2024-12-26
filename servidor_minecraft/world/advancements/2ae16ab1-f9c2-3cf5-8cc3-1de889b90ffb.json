@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-26 22:04:36 +0000",
       "minecraft:dark_forest": "2024-12-26 21:41:42 +0000",
       "minecraft:forest": "2024-12-26 20:47:01 +0000",
       "minecraft:river": "2024-12-26 21:30:00 +0000",
@@ -489,6 +490,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-26 21:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-26 21:59:21 +0000"
     },
     "done": true
   },
