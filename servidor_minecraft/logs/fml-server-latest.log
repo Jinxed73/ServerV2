@@ -904,3 +904,155 @@
 [01:47:37] [Server thread/INFO] [jinryuudragonblockc/]: FirulaisMarigano has died
 [01:47:37] [Server thread/INFO] [jinryuujrmcore/]: FirulaisMarigano was slain by Jinxed_73
 [01:47:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:48:07] [Server thread/INFO] [jinryuudragonblockc/]: Enma's Palace Spawned
+[01:48:08] [Server thread/INFO] [jinryuudragonblockc/]: Snake Way Spawned
+[01:48:09] [Server thread/ERROR] [FML/]: Exception caught during firing event cpw.mods.fml.common.gameevent.TickEvent$ServerTickEvent@2574ea21:
+net.minecraft.util.ReportedException: Exception getting block type in world
+	at net.minecraft.world.World.func_147439_a(World.java:354) ~[ahb.class:?]
+	at net.minecraft.world.World.func_147437_c(World.java:365) ~[ahb.class:?]
+	at JinRyuu.DragonBC.common.m.WorldGenMahagonyTree.buildBlock(WorldGenMahagonyTree.java:956) ~[WorldGenMahagonyTree.class:?]
+	at JinRyuu.DragonBC.common.m.WorldGenMahagonyTree.generateTreeOneBranchFour(WorldGenMahagonyTree.java:500) ~[WorldGenMahagonyTree.class:?]
+	at JinRyuu.DragonBC.common.m.WorldGenMahagonyTree.func_76484_a(WorldGenMahagonyTree.java:108) ~[WorldGenMahagonyTree.class:?]
+	at JinRyuu.DragonBC.common.Worlds.BiomeDecoratorDBC.func_150513_a(BiomeDecoratorDBC.java:135) ~[BiomeDecoratorDBC.class:?]
+	at JinRyuu.DragonBC.common.Worlds.BiomeDecoratorDBC.func_150512_a(BiomeDecoratorDBC.java:91) ~[BiomeDecoratorDBC.class:?]
+	at net.minecraft.world.biome.BiomeGenBase.func_76728_a(BiomeGenBase.java:339) ~[ahu.class:?]
+	at JinRyuu.DragonBC.common.Worlds.x1BiomeGenOW2.func_76728_a(x1BiomeGenOW2.java:96) ~[x1BiomeGenOW2.class:?]
+	at JinRyuu.DragonBC.common.Worlds.x1ChunkProviderOW.func_73153_a(x1ChunkProviderOW.java:516) ~[x1ChunkProviderOW.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279) ~[ms.class:?]
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1055) ~[apx.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199) ~[ms.class:?]
+	at net.minecraft.world.World.func_72964_e(World.java:419) ~[ahb.class:?]
+	at net.minecraft.world.World.func_147465_d(World.java:436) ~[ahb.class:?]
+	at net.minecraft.world.gen.feature.WorldGenerator.func_150516_a(SourceFile:35) ~[arn.class:?]
+	at JinRyuu.DragonBC.common.Villages.SnkWy.b(SnkWy.java:23) ~[SnkWy.class:?]
+	at JinRyuu.DragonBC.common.Villages.SnkWyP2.generate12(SnkWyP2.java:16380) ~[SnkWyP2.class:?]
+	at JinRyuu.DragonBC.common.Villages.SnkWyP2.generate11(SnkWyP2.java:15066) ~[SnkWyP2.class:?]
+	at JinRyuu.DragonBC.common.Villages.SnkWyP2.generate10(SnkWyP2.java:13560) ~[SnkWyP2.class:?]
+	at JinRyuu.DragonBC.common.Villages.SnkWyP2.generate9(SnkWyP2.java:12054) ~[SnkWyP2.class:?]
+	at JinRyuu.DragonBC.common.Villages.SnkWyP2.generate8(SnkWyP2.java:10548) ~[SnkWyP2.class:?]
+	at JinRyuu.DragonBC.common.Villages.SnkWyP2.generate7(SnkWyP2.java:9042) ~[SnkWyP2.class:?]
+	at JinRyuu.DragonBC.common.Villages.SnkWyP2.generate6(SnkWyP2.java:7536) ~[SnkWyP2.class:?]
+	at JinRyuu.DragonBC.common.Villages.SnkWyP2.generate5(SnkWyP2.java:6030) ~[SnkWyP2.class:?]
+	at JinRyuu.DragonBC.common.Villages.SnkWyP2.generate4(SnkWyP2.java:4524) ~[SnkWyP2.class:?]
+	at JinRyuu.DragonBC.common.Villages.SnkWyP2.generate3(SnkWyP2.java:3018) ~[SnkWyP2.class:?]
+	at JinRyuu.DragonBC.common.Villages.SnkWyP2.generate2(SnkWyP2.java:1512) ~[SnkWyP2.class:?]
+	at JinRyuu.DragonBC.common.Villages.SnkWy.func_76484_a(SnkWy.java:1584) ~[SnkWy.class:?]
+	at JinRyuu.DragonBC.common.Worlds.WorldGeneratorDB.generateOW(WorldGeneratorDB.java:750) ~[WorldGeneratorDB.class:?]
+	at JinRyuu.DragonBC.common.Worlds.WorldGeneratorDB.generate(WorldGeneratorDB.java:65) ~[WorldGeneratorDB.class:?]
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:112) ~[GameRegistry.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280) ~[ms.class:?]
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1055) ~[apx.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199) ~[ms.class:?]
+	at net.minecraft.world.World.func_72964_e(World.java:419) ~[ahb.class:?]
+	at net.minecraft.world.World.func_147465_d(World.java:436) ~[ahb.class:?]
+	at net.minecraft.world.gen.feature.WorldGenerator.func_150516_a(SourceFile:35) ~[arn.class:?]
+	at JinRyuu.DragonBC.common.Villages.ChkInSt.bm(ChkInSt.java:21) ~[ChkInSt.class:?]
+	at JinRyuu.DragonBC.common.Villages.ChkInStP2.generate2(ChkInStP2.java:501) ~[ChkInStP2.class:?]
+	at JinRyuu.DragonBC.common.Villages.ChkInSt.func_76484_a(ChkInSt.java:1582) ~[ChkInSt.class:?]
+	at JinRyuu.DragonBC.common.Worlds.WorldGeneratorDB.generateOW(WorldGeneratorDB.java:746) ~[WorldGeneratorDB.class:?]
+	at JinRyuu.DragonBC.common.Worlds.WorldGeneratorDB.generate(WorldGeneratorDB.java:65) ~[WorldGeneratorDB.class:?]
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:112) ~[GameRegistry.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280) ~[ms.class:?]
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1050) ~[apx.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131) ~[ms.class:?]
+	at net.minecraft.server.management.PlayerManager$PlayerInstance.<init>(PlayerManager.java:370) ~[mr.class:?]
+	at net.minecraft.server.management.PlayerManager.func_72690_a(PlayerManager.java:97) ~[mq.class:?]
+	at net.minecraft.server.management.PlayerManager.func_72683_a(PlayerManager.java:138) ~[mq.class:?]
+	at net.minecraft.server.management.ServerConfigurationManager.func_72375_a(ServerConfigurationManager.java:240) ~[oi.class:?]
+	at net.minecraft.server.management.ServerConfigurationManager.transferPlayerToDimension(ServerConfigurationManager.java:505) ~[oi.class:?]
+	at JinRyuu.JRMCore.JRMCoreHDBC.WorldTper(JRMCoreHDBC.java:977) ~[JRMCoreHDBC.class:?]
+	at JinRyuu.JRMCore.JRMCoreComTickH.updatePlayersData(JRMCoreComTickH.java:2145) ~[JRMCoreComTickH.class:?]
+	at JinRyuu.JRMCore.JRMCoreComTickH.serverTick(JRMCoreComTickH.java:1291) ~[JRMCoreComTickH.class:?]
+	at JinRyuu.JRMCore.JRMCoreComTickH.onTickInGame(JRMCoreComTickH.java:246) ~[JRMCoreComTickH.class:?]
+	at JinRyuu.JRMCore.JRMCoreComTickH.onTick(JRMCoreComTickH.java:233) ~[JRMCoreComTickH.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_6_JRMCoreComTickH_onTick_ServerTickEvent.invoke(.dynamic) ~[?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) ~[ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+	at cpw.mods.fml.common.FMLCommonHandler.onPreServerTick(FMLCommonHandler.java:260) [FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:536) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+Caused by: java.lang.RuntimeException: Already decorating!!
+	at JinRyuu.DragonBC.common.Worlds.BiomeDecoratorDBC.func_150512_a(BiomeDecoratorDBC.java:83) ~[BiomeDecoratorDBC.class:?]
+	at net.minecraft.world.biome.BiomeGenBase.func_76728_a(BiomeGenBase.java:339) ~[ahu.class:?]
+	at JinRyuu.DragonBC.common.Worlds.x1BiomeGenOW2.func_76728_a(x1BiomeGenOW2.java:96) ~[x1BiomeGenOW2.class:?]
+	at JinRyuu.DragonBC.common.Worlds.x1ChunkProviderOW.func_73153_a(x1ChunkProviderOW.java:516) ~[x1ChunkProviderOW.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279) ~[ms.class:?]
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1045) ~[apx.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199) ~[ms.class:?]
+	at net.minecraft.world.World.func_72964_e(World.java:419) ~[ahb.class:?]
+	at net.minecraft.world.World.func_147439_a(World.java:345) ~[ahb.class:?]
+	... 70 more
+[01:48:09] [Server thread/ERROR] [FML/]: Index: 1 Listeners:
+[01:48:09] [Server thread/ERROR] [FML/]: 0: NORMAL
+[01:48:09] [Server thread/ERROR] [FML/]: 1: ASM: JinRyuu.JRMCore.JRMCoreComTickH@53745ce4 onTick(Lcpw/mods/fml/common/gameevent/TickEvent$ServerTickEvent;)V
+[01:48:09] [Server thread/ERROR] [FML/]: 2: ASM: JinRyuu.DragonBC.common.DBCCommonTickHandler@21a8d2ef onTick(Lcpw/mods/fml/common/gameevent/TickEvent$ServerTickEvent;)V
+[01:48:09] [Server thread/ERROR] [FML/]: 3: ASM: JinRyuu.JBRA.JBRAComTickH@757ed506 onTick(Lcpw/mods/fml/common/gameevent/TickEvent$ServerTickEvent;)V
+[01:48:09] [Server thread/ERROR] [FML/]: 4: ASM: JinRyuu.JHDSkins.e.JHDSEServerTH@635e4fa7 onTick(Lcpw/mods/fml/common/gameevent/TickEvent$ServerTickEvent;)V
+[01:48:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:48:10] [Server thread/INFO] [FML/]: Unloading dimension 0
+[01:48:10] [Server thread/INFO] [FML/]: Unloading dimension -1
+[01:48:10] [Server thread/INFO] [FML/]: Unloading dimension 1
+[01:48:10] [Server thread/INFO] [FML/]: Unloading dimension 21
+[01:48:10] [Server thread/INFO] [FML/]: Unloading dimension 20
+[01:48:10] [Server thread/INFO] [FML/]: Unloading dimension 24
+[01:48:10] [Server thread/INFO] [FML/]: Unloading dimension 23
+[01:48:10] [Server thread/INFO] [FML/]: Unloading dimension 22
+[01:48:10] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
+[01:48:10] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[01:48:10] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[01:48:10] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.004s
+[01:48:10] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[01:48:10] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[01:48:10] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[01:48:10] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[01:48:10] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[01:48:10] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.002s
+[01:48:10] [Server thread/TRACE] [jinryuujrmcore/jinryuujrmcore]: Sending event FMLModIdMappingEvent to mod jinryuujrmcore
+[01:48:10] [Server thread/TRACE] [jinryuujrmcore/jinryuujrmcore]: Sent event FMLModIdMappingEvent to mod jinryuujrmcore
+[01:48:10] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - JinRyuu's JRMCore took 0.000s
+[01:48:10] [Server thread/TRACE] [jinryuudragonblockc/jinryuudragonblockc]: Sending event FMLModIdMappingEvent to mod jinryuudragonblockc
+[01:48:10] [Server thread/TRACE] [jinryuudragonblockc/jinryuudragonblockc]: Sent event FMLModIdMappingEvent to mod jinryuudragonblockc
+[01:48:10] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Dragon Block C took 0.000s
+[01:48:10] [Server thread/TRACE] [jinryuubetterrenderaddon/jinryuubetterrenderaddon]: Sending event FMLModIdMappingEvent to mod jinryuubetterrenderaddon
+[01:48:10] [Server thread/TRACE] [jinryuubetterrenderaddon/jinryuubetterrenderaddon]: Sent event FMLModIdMappingEvent to mod jinryuubetterrenderaddon
+[01:48:10] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - JinRyuu's Better Render Addon took 0.000s
+[01:48:10] [Server thread/TRACE] [jinryuuhdskinsextended/jinryuuhdskinsextended]: Sending event FMLModIdMappingEvent to mod jinryuuhdskinsextended
+[01:48:10] [Server thread/TRACE] [jinryuuhdskinsextended/jinryuuhdskinsextended]: Sent event FMLModIdMappingEvent to mod jinryuuhdskinsextended
+[01:48:10] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - JinRyuu's HD Skins Extended took 0.000s
+[01:48:10] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.007s
+[01:48:10] [Server thread/INFO] [FML/]: Applying holder lookups
+[01:48:10] [Server thread/INFO] [FML/]: Holder lookups applied
+[01:48:10] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[01:48:10] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[01:48:10] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[01:48:10] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[01:48:10] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[01:48:10] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[01:48:10] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
+[01:48:10] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
+[01:48:10] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[01:48:10] [Server thread/TRACE] [jinryuujrmcore/jinryuujrmcore]: Sending event FMLServerStoppedEvent to mod jinryuujrmcore
+[01:48:10] [Server thread/TRACE] [jinryuujrmcore/jinryuujrmcore]: Sent event FMLServerStoppedEvent to mod jinryuujrmcore
+[01:48:10] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - JinRyuu's JRMCore took 0.000s
+[01:48:10] [Server thread/TRACE] [jinryuudragonblockc/jinryuudragonblockc]: Sending event FMLServerStoppedEvent to mod jinryuudragonblockc
+[01:48:10] [Server thread/TRACE] [jinryuudragonblockc/jinryuudragonblockc]: Sent event FMLServerStoppedEvent to mod jinryuudragonblockc
+[01:48:10] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Dragon Block C took 0.000s
+[01:48:10] [Server thread/TRACE] [jinryuubetterrenderaddon/jinryuubetterrenderaddon]: Sending event FMLServerStoppedEvent to mod jinryuubetterrenderaddon
+[01:48:10] [Server thread/TRACE] [jinryuubetterrenderaddon/jinryuubetterrenderaddon]: Sent event FMLServerStoppedEvent to mod jinryuubetterrenderaddon
+[01:48:10] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - JinRyuu's Better Render Addon took 0.000s
+[01:48:10] [Server thread/TRACE] [jinryuuhdskinsextended/jinryuuhdskinsextended]: Sending event FMLServerStoppedEvent to mod jinryuuhdskinsextended
+[01:48:10] [Server thread/TRACE] [jinryuuhdskinsextended/jinryuuhdskinsextended]: Sent event FMLServerStoppedEvent to mod jinryuuhdskinsextended
+[01:48:10] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - JinRyuu's HD Skins Extended took 0.000s
+[01:48:10] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.001s
+[01:48:10] [Server thread/INFO] [FML/]: The state engine was in incorrect state SERVER_STOPPING and forced into state SERVER_STOPPED. Errors may have been discarded.
