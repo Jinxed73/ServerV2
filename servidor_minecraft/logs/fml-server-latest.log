@@ -1290,3 +1290,85 @@
 [03:57:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [03:58:15] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [03:59:00] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:59:45] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:00:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:01:03] [Server thread/INFO] [jinryuudragonblockc/]: FirulaisMarigano has died
+[04:01:03] [Server thread/INFO] [jinryuudragonblockc/]: Because of death, FirulaisMarigano also lost a Dexterity point.
+[04:01:03] [Server thread/INFO] [jinryuudragonblockc/]: Because of death, FirulaisMarigano also lost a WillPower point.
+[04:01:03] [Server thread/INFO] [jinryuudragonblockc/]: Because of death, FirulaisMarigano also lost a Strength point.
+[04:01:03] [Server thread/INFO] [jinryuudragonblockc/]: Because of death, FirulaisMarigano also lost a WillPower point.
+[04:01:03] [Server thread/INFO] [jinryuujrmcore/]: FirulaisMarigano was slain by Dabura
+[04:01:05] [Server thread/INFO] [jinryuujrmcore/]: FirulaisMarigano Has died and gone to Otherworld.
+[04:01:15] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:02:00] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:02:13] [Server thread/INFO] [jinryuudragonblockc/]: FirulaisMarigano revived!
+[04:02:45] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:03:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:04:15] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:05:00] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:05:08] [Server thread/INFO] [jinryuudragonblockc/]: FirulaisMarigano has died
+[04:05:08] [Server thread/INFO] [jinryuudragonblockc/]: Because of death, FirulaisMarigano also lost a Dexterity point.
+[04:05:08] [Server thread/INFO] [jinryuudragonblockc/]: Because of death, FirulaisMarigano also lost a Strength point.
+[04:05:08] [Server thread/INFO] [jinryuudragonblockc/]: Because of death, FirulaisMarigano also lost a Dexterity point.
+[04:05:08] [Server thread/INFO] [jinryuudragonblockc/]: Because of death, FirulaisMarigano also lost a Constitution point.
+[04:05:08] [Server thread/INFO] [jinryuujrmcore/]: FirulaisMarigano was slain by Saibaman
+[04:05:10] [Server thread/INFO] [jinryuujrmcore/]: FirulaisMarigano Has died and gone to Otherworld.
+[04:05:45] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:06:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:06:34] [Server thread/INFO] [jinryuudragonblockc/]: FirulaisMarigano revived!
+[04:07:15] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:08:00] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:08:45] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:09:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:09:31] [Server thread/INFO] [jinryuudragonblockc/]: FirulaisMarigano has died
+[04:09:31] [Server thread/INFO] [jinryuudragonblockc/]: Because of death, FirulaisMarigano also lost a WillPower point.
+[04:09:31] [Server thread/INFO] [jinryuudragonblockc/]: Because of death, FirulaisMarigano also lost a Spirit point.
+[04:09:31] [Server thread/INFO] [jinryuudragonblockc/]: Because of death, FirulaisMarigano also lost a Spirit point.
+[04:09:31] [Server thread/INFO] [jinryuudragonblockc/]: Because of death, FirulaisMarigano also lost a Mind point.
+[04:09:31] [Server thread/INFO] [jinryuujrmcore/]: FirulaisMarigano was slain by Saibaman
+[04:09:32] [Server thread/INFO] [jinryuujrmcore/]: FirulaisMarigano Has died and gone to Otherworld.
+[04:10:11] [Netty IO #1/ERROR] [FML/]: NetworkDispatcher exception
+java.io.IOException: Connection reset by peer
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method) ~[?:1.8.0_432]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39) ~[?:1.8.0_432]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_432]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_432]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379) ~[?:1.8.0_432]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:436) ~[UnpooledUnsafeDirectByteBuf.class:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:870) ~[AbstractByteBuf.class:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:87) [AbstractNioByteChannel$NioByteUnsafe.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:480) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341) [NioEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[04:10:15] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:11:00] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:11:45] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:12:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:13:15] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:13:32] [Netty IO #2/ERROR] [FML/]: NetworkDispatcher exception
+java.io.IOException: Connection reset by peer
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method) ~[?:1.8.0_432]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39) ~[?:1.8.0_432]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_432]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_432]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379) ~[?:1.8.0_432]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:436) ~[UnpooledUnsafeDirectByteBuf.class:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:870) ~[AbstractByteBuf.class:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:87) [AbstractNioByteChannel$NioByteUnsafe.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:480) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341) [NioEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[04:14:00] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:14:45] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:15:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:16:15] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:17:00] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:17:45] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:18:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:19:15] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
